@@ -70,6 +70,7 @@ dependencies = [
  "base64ct",
  "dotenv",
  "fastrand",
+ "lazy_static",
  "serde",
  "tide",
 ]
